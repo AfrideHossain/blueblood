@@ -1,0 +1,7 @@
+blue : #1e90ff;
+red : #FF2F2F;
+gray : #494949;
+white_gray : #e2e2e2;
+linear-gradient(to bottom, #f1f4f9, #dff1ff);
+violate : #723D79;
+pink: #ad47ba;
